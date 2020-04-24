@@ -9,6 +9,8 @@ Project Team Members:
 - Firstname Lastname4, name4@ucsd.edu
 - Firstname Lastname5, name5@ucsd.edu
 
+Ideas and Scheduling Doc: https://docs.google.com/document/d/1kLNA6V-ilkDmu5EcxvhBqU_WcHCIoU4yQ6_n61uY4y0/edit?usp=sharing
+
 ## Abstract
 
 (10 points) 
