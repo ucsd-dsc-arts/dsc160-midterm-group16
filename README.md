@@ -5,7 +5,7 @@ DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 Project Team Members: 
 - Leon Kuo, lkuo@ucsd.edu
 - Will Bates, wbates@ucsd.edu
-- Firstname Lastname3, name3@ucsd.edu
+- Saveree Joshipura, sjoshipu@ucsd.edu
 - Firstname Lastname4, name4@ucsd.edu
 - Firstname Lastname5, name5@ucsd.edu
 
