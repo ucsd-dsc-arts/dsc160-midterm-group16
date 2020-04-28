@@ -15,17 +15,7 @@ Ideas and Scheduling Doc: https://docs.google.com/document/d/1kLNA6V-ilkDmu5Ecxv
 
 (10 points) 
 
-For the project proposal, please write a short abstact addressing the questions below. You should replace the entire contents of this section with one to two paragraphs addressing the following:
-
-- What is the data set that you are going to analyze?
-- What is your research question? 
-- What is your hypothesis about the results? 
-- What features of the data will you use to address your question? 
-- What techniques and software tools will you use to extract these features?
-- What analytic techniques will you use?
-- What forms will your results take? (graphs, charts, images, sonification, Wordles, etc)
-- How are you expanding on topics we have covered in class? 
-- Why is it interesting? (personally, culturally, politically, other)
+People believe that throughout the years, The Beatles’ music transitioned from classic popular music to experimental music. We predict this is a true statement, and aim to quantify this transition. The goal of our project will be to answer the following question: what features and/or trends defined eras of The Beatles’ music, and how can we visually display that? Our dataset will consist of all The Beatles’ songs. There are roughly 230 songs. We will use BeautifulSoup to scrape the audio from https://archive.org/details/thebeatlesatozsongsstereoremastered and plan to focus on using features such as complexity score, MFCC, beats per minute/tempo of the song, chord types (major/minor), and release year of each song. We’ll likely be using librosa to look at waveform attributes along with other software tools such as numpy and Pandas to organize data into neater hierarchies. The labels will come from a Wikipedia list of Beatles songs and will be gathered using Wikipedia’s API. The results are going to be in the form of a graph that shows their shift over time from their original style of music to the more psychedelic music. A scatter plot will most likely be used to place each of their songs on a graph. We aim to use Bokeh plots to show visualizations from the beginning of their career to the end, using the cover of each album to go along with the year of its release. We will be utilizing feature extraction tools that we have used in class (MFCCs, etc), determining different features that most effectively define the change in The Beatles’ music. In addition, we will take inspiration from visualizations shown in class to present the results of our findings. Our group finds a personal interest in this project, as we are all Beatles fans. Performing analysis on their music is fascinating for many reasons, especially quantifying their transition from popular music to experimental music and seeing the defining features and trends of each era.
 
 ## Data
 
