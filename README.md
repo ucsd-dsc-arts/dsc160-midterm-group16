@@ -7,7 +7,7 @@ Project Team Members:
 - Will Bates, wbates@ucsd.edu
 - Saveree Joshipura, sjoshipu@ucsd.edu
 - Nicole Lee, nml015@ucsd.edu
-- Firstname Lastname5, name5@ucsd.edu
+- Brandon Tsui, bhtsui@ucsd.edu
 
 Ideas and Scheduling Doc: https://docs.google.com/document/d/1kLNA6V-ilkDmu5EcxvhBqU_WcHCIoU4yQ6_n61uY4y0/edit?usp=sharing
 
