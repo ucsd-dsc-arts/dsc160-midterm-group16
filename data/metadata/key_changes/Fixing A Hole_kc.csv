@@ -1,0 +1,4 @@
+begin,end,key or silence,key
+0.0,0.23,Silence,
+0.23,153.16,Key,F:dorian
+153.16,156.627,Silence,

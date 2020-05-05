@@ -1,0 +1,4 @@
+begin,end,key or silence,key
+0.0,0.38,Silence,
+0.38,204.487,Key,A
+204.487,206.707,Silence,

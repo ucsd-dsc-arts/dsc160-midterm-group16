@@ -1,0 +1,4 @@
+begin,end,key or silence,key
+0.0,0.35,Silence,
+0.35,183.85,Key,A:minor
+183.85,185.56,Silence,

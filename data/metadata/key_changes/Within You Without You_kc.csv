@@ -1,0 +1,4 @@
+begin,end,key or silence,key
+0.0,1.75,Silence,
+1.75,305.07,Key,C#:modal
+305.07,305.067,Silence,

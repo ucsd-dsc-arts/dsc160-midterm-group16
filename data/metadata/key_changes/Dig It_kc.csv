@@ -1,0 +1,4 @@
+begin,end,key or silence,key
+0.0,1.48,Silence,
+1.48,50.0,Key,F
+50.0,50.0,Silence,
