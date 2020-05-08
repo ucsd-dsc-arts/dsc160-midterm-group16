@@ -79,7 +79,8 @@ Any implementation details or notes we need to repeat your work.
 ## Reference
 
 References to any papers, techniques, repositories you used:
--http://isophonics.net/content/reference-annotations-beatles
+
+- http://isophonics.net/content/reference-annotations-beatles
 - Papers
 - Repositories
 - Blog posts
