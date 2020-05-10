@@ -81,6 +81,7 @@ Any implementation details or notes we need to repeat your work.
 References to any papers, techniques, repositories you used:
 
 - http://isophonics.net/content/reference-annotations-beatles
+- https://github.com/moizmb/beatles-lyrics
 - Papers
 - Repositories
 - Blog posts
