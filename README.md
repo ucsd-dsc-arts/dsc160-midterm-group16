@@ -9,6 +9,8 @@ Project Team Members:
 - Nicole Lee, nml015@ucsd.edu
 - Brandon Tsui, bhtsui@ucsd.edu
 
+Repository: https://github.com/ucsd-dsc-arts/dsc160-midterm-group16
+
 ## Abstract
 
 It is culturally understood that throughout the years, music by The Beatles transitioned from classic popular music to experimental music. We aim to quantify this transition. The goal of our project is to answer the following question: what features and/or trends defined eras of Beatles music, and how can we visually display that? Performing analysis on their music is fascinating for many reasons, especially quantifying their transition from popular music to experimental music and seeing the defining features and trends of each era. We scraped audio from https://archive.org/details/thebeatlesatozsongsstereoremastered and extracted features such as frequency, tempo, lyrics, and structure of each song. The labels came from a Wikipedia list of Beatles songs and will be gathered using Wikipedia’s API. We used librosa to look at waveform attributes along with Pandas to organize data into neater hierarchies. The results include a variety of visualizations showing trends by album, songwriter, vocals and more. In particular, the project was divided into sections focusing on lyrical sentiment, songwriter/vocalist analysis, album comparison, chords and chord progressions, and genre.
