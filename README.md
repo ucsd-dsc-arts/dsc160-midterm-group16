@@ -1,4 +1,4 @@
-# Project Title
+# The Beatles in Numbers
 
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
